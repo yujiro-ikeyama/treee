@@ -194,7 +194,7 @@ with col1:
     st.write("本格サンドバッグを設置")
 
 with col2:
-    st.image("/Users/yujiro/Downloads/gurove.jpg", width=220)
+    # st.image("/Users/yujiro/Downloads/gurove.jpg", width=220)
     st.markdown("### 🥊 グローブ")
     st.write("無料で貸出")
 
