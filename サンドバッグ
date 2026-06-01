@@ -1,0 +1,24 @@
+import streamlit as st
+
+st.title("殴り屋")
+
+st.subheader("完全個室サンドバッグジム")
+
+st.write("""
+誰にも見られず、
+思いっきりストレス発散できる空間。
+
+初心者歓迎。
+女性利用OK。
+""")
+
+st.header("料金")
+
+st.write("""
+・60分 3000円  
+・90分 4500円  
+・ペア利用 OK
+""")
+
+if st.button("予約する"):
+    st.write("Instagram DMから予約受付中")

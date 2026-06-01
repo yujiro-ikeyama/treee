@@ -1,0 +1,10 @@
+{
+  "full_name": "山田 太郎",
+  "email": "taro.yamada@example.com",
+  "phone": "090-1234-5678",
+  "company": "Treee合同会社",
+  "role": "PM",
+  "country": "JP",
+  "newsletter": true,
+  "notes": "お問い合わせ内容: デモ希望"
+}
