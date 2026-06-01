@@ -199,7 +199,7 @@ with col2:
     st.write("無料で貸出")
 
 with col3:
-    st.image("/Users/yujiro/Downloads/kositu.jpg", width=220)
+    # st.image("/Users/yujiro/Downloads/kositu.jpg", width=220)
     st.markdown("### 🚪 完全個室")
     st.write("周囲を気にせず利用可能")
 
