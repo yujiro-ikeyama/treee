@@ -50,7 +50,7 @@ st.link_button(
     use_container_width=True
 )
 st.image(
-    "/Users/yujiro/Downloads/ad439703-fb54-4255-a3b0-923d385af538.png",
+    "ad439703-fb54-4255-a3b0-923d385af538.png",
     width="stretch"
 )
 
