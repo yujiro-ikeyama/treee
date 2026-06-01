@@ -189,7 +189,7 @@ st.header("FACILITY")
 col1, col2, col3 = st.columns(3)
 
 with col1:
-    st.image("/Users/yujiro/Downloads/sandbag2.jpg", width=160)
+    # st.image("/Users/yujiro/Downloads/sandbag2.jpg", width=160)
     st.markdown("#### 🥊 サンドバッグ")
     st.write("本格サンドバッグを設置")
 
