@@ -49,10 +49,10 @@ st.link_button(
     "https://lin.ee/WgzkVj4",
     use_container_width=True
 )
-st.image(
-    "ad439703-fb54-4255-a3b0-923d385af538.png",
-    width="stretch"
-)
+# st.image(
+#     "ad439703-fb54-4255-a3b0-923d385af538.png",
+#     width="stretch"
+# )
 
 
 st.markdown("""
