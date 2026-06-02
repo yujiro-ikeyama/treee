@@ -19,7 +19,10 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.set_page_config(page_title="殴り屋", layout="wide")
+st.set_page_config(
+    page_title="殴り屋｜神戸の完全個室サンドバッグジム",
+    layout="wide"
+)
 
 st.markdown("""
 <meta name="google-site-verification" content="aKqUMSyiAu8kluZ8nihUcR3rI2vbtZ-e9-VZzJKH7xY" />
