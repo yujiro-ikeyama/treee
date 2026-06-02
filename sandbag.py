@@ -68,7 +68,13 @@ text-align:center;
 
 st.markdown(
     """
+st.markdown(
+    """
     <h2>誰にも見られず、思いっきり発散。</h2>
+    <br><br>
+    """,
+    unsafe_allow_html=True
+)
     <br><br>
     """,
     unsafe_allow_html=True
