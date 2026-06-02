@@ -213,7 +213,7 @@ with col3:
     st.markdown("### 🚪 完全個室")
     st.write("周囲を気にせず利用可能")
 
-sst.caption("""
+st.caption("""
 現在オープン準備中です。
 掲載内容は変更となる場合があります。
 """)
