@@ -33,10 +33,10 @@ text-shadow:2px 2px 4px #333;
 ">
 殴り屋
 </h1>
-<h4 style="margin-top:-15px; font-family:'Yuji Syuku', serif; letter-spacing:2px;">
+<h4 style="margin-top:10px; margin-bottom:60px; font-family:'Yuji Syuku', serif; letter-spacing:2px;">
 完全個室サンドバッグジム
 </h4>
-
+            
 </div>
 """, unsafe_allow_html=True)
 
