@@ -200,7 +200,7 @@ col1, col2, col3 = st.columns(3)
 
 with col1:
     # st.image("/Users/yujiro/Downloads/sandbag2.jpg", width=160)
-    st.markdown("#### 🥊 サンドバッグ")
+    st.markdown("#### 💥 サンドバッグ")
     st.write("本格サンドバッグを設置")
 
 with col2:
@@ -213,7 +213,10 @@ with col3:
     st.markdown("### 🚪 完全個室")
     st.write("周囲を気にせず利用可能")
 
-st.caption("※掲載画像はイメージです。実際の設備・内装とは異なる場合があります。")
+sst.caption("""
+現在オープン準備中です。
+掲載内容は変更となる場合があります。
+""")
 
 st.divider()
 st.header("ACCESS")
