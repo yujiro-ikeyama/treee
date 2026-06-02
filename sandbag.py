@@ -136,13 +136,16 @@ st.info("""
 🔒 完全個室
 """)
 
-st.success("""
-🥊 1名利用　　1,200円
-
-🥊 2名利用　　2,200円
-
-🥊 3名利用　　3,200円
-""")
+st.markdown(
+    """
+    <div style="background:#123d29; padding:20px; border-radius:10px; color:#5cff9a; font-size:18px;">
+        <p>🥊 1名利用　<span style="float:right;">1,200円</span></p>
+        <p>🥊 2名利用　<span style="float:right;">2,200円</span></p>
+        <p>🥊 3名利用　<span style="float:right;">3,200円</span></p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 st.caption("※料金は仮設定です。変更する可能性があります。")
 
