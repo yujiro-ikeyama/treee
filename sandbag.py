@@ -23,10 +23,10 @@ st.set_page_config(page_title="殴り屋", layout="wide")
 
 st.markdown("""
 <link href="https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap" rel="stylesheet">           
-<div style="text-align:center; max-width:900px; margin:auto; position:relative; left:30px;">
+<div style="text-align:center; max-width:900px; margin:auto; position:relative;">
 
 <h1 style="
-font-size:100px;
+font-size:70px;
 font-family:'Yuji Syuku', serif;
 letter-spacing:8px;
 text-shadow:2px 2px 4px #333;
