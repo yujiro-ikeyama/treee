@@ -39,6 +39,8 @@ text-shadow:2px 2px 4px #333;
 完全個室サンドバッグジム
 </h4>
             
+            <p>神戸の完全個室サンドバッグジム｜殴り屋</p>
+            
 </div>
 """, unsafe_allow_html=True)
 
