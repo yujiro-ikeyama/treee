@@ -64,7 +64,7 @@ z-index:10;
 color:white;
 text-align:center;
 ">
-
+""", unsafe_allow_html=True)
 st.markdown(
     """
     <h2>誰にも見られず、思いっきり発散。</h2>
@@ -79,19 +79,13 @@ st.link_button(
     "🟢 LINEで今すぐ予約する",
     "https://lin.ee/WgzkVj4",
     use_container_width=True
-)
-
-    <br><br>
+)           
+st.markdown(
+    """
+    <p>ストレス発散・運動不足解消・初心者歓迎</p>
     """,
     unsafe_allow_html=True
 )
-            
-<p>
-ストレス発散・運動不足解消・初心者歓迎
-</p>
-
-</div>
-""", unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
 st.success("完全予約制（当日予約OK）｜初心者大歓迎｜手ぶらOK！")
