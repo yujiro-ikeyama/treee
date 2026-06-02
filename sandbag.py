@@ -22,6 +22,8 @@ st.markdown("""
 st.set_page_config(page_title="殴り屋", layout="wide")
 
 st.markdown("""
+<meta name="google-site-verification" content="aKqUMSyiAu8kluZ8nihUcR3rI2vbtZ-e9-VZzJKH7xY" />
+            
 <link href="https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap" rel="stylesheet">           
 <div style="text-align:center; width:100%; margin:auto;">
 
