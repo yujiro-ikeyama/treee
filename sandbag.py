@@ -42,13 +42,7 @@ text-shadow:2px 2px 4px #333;
 
 st.markdown('<div class="fade-in">', unsafe_allow_html=True)
 
-st.success("📲 LINEで24時間予約受付中")
 
-st.link_button(
-    "🟢 LINEで今すぐ予約する",
-    "https://lin.ee/WgzkVj4",
-    use_container_width=True
-)
 # st.image(
 #     "ad439703-fb54-4255-a3b0-923d385af538.png",
 #     width="stretch"
@@ -71,8 +65,28 @@ color:white;
 text-align:center;
 ">
 
-<h2>誰にも見られず、思いっきり発散。</h2>
 
+st.markdown(
+    """
+    <h2>誰にも見られず、思いっきり発散。</h2>
+    <br><br>
+    """,
+    unsafe_allow_html=True
+)
+
+st.success("📲 LINEで24時間予約受付中")
+
+st.link_button(
+    "🟢 LINEで今すぐ予約する",
+    "https://lin.ee/WgzkVj4",
+    use_container_width=True
+)
+
+    <br><br>
+    """,
+    unsafe_allow_html=True
+)
+            
 <p>
 ストレス発散・運動不足解消・初心者歓迎
 </p>
