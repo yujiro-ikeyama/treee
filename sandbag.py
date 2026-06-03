@@ -28,10 +28,10 @@ st.markdown("""
 <meta name="google-site-verification" content="aKqUMSyiAu8kluZ8nihUcR3rI2vbtZ-e9-VZzJKH7xY" />
             
 <link href="https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap" rel="stylesheet">           
-<div style="text-align:center; width:100%; margin:auto;">
+<div style="text-align:center; width:100%; max-width:340px; margin:0 auto;">
 
 <h1 style="
-font-size:60px;
+font-size:56px;
 font-family:'Yuji Syuku', serif;
 letter-spacing:2px;
 text-shadow:2px 2px 4px #333;
