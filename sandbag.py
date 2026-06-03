@@ -23,6 +23,16 @@ st.set_page_config(
     page_title="殴り屋｜神戸の完全個室サンドバッグジム",
     layout="wide"
 )
+st.markdown("""
+<style>
+.block-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 720px;
+    margin: auto;
+}
+</style>
+""", unsafe_allow_html=True)
 
 st.markdown("""
 <meta name="google-site-verification" content="aKqUMSyiAu8kluZ8nihUcR3rI2vbtZ-e9-VZzJKH7xY" />
