@@ -48,11 +48,16 @@ text-shadow:2px 2px 4px #333;
 ">
 殴り屋
 </h1>
-<h4 style="margin-top:10px; margin-bottom:60px; font-family:'Yuji Syuku', serif; letter-spacing:2px;">
+<h4 style="
+margin-top:10px;
+margin-bottom:60px;
+font-size:18px;
+font-family:'Yuji Syuku', serif;
+letter-spacing:1px;
+">
 完全個室サンドバッグジム
 </h4>
             
-            <p>神戸の完全個室サンドバッグジム｜殴り屋</p>
             
 </div>
 """, unsafe_allow_html=True)
