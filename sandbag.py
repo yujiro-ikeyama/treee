@@ -259,7 +259,7 @@ st.header("CONTACT")
 
 st.subheader("ご予約はこちら")
 
-st.info("ご予約・お問い合わせはLINEまたはInstagramからお願いします。")
+st.info("📩 ご予約はLINE・Instagramから")
 
 col1, col2 = st.columns(2)
 
