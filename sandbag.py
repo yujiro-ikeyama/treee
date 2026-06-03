@@ -33,7 +33,7 @@ st.markdown("""
 <h1 style="
 font-size:60px;
 font-family:'Yuji Syuku', serif;
-letter-spacing:8px;
+letter-spacing:2px;
 text-shadow:2px 2px 4px #333;
 ">
 殴り屋
