@@ -89,9 +89,9 @@ text-align:center;
 """, unsafe_allow_html=True)
 st.markdown(
     """
-<h2 id="">
+<div style="font-size:36px; font-weight:bold;">
 誰にも見られず、思いっきり発散。
-</h2>
+</div>
     <br><br>
     """,
     unsafe_allow_html=True
